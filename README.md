@@ -3,4 +3,4 @@ Im a python developer. i have little skill in items bellow: <br>
 
 
 
-oh ! https://github.com/AliAkbarSobhanpour/ this repo is mine also. go and check it.
+oh ! repo  (https://github.com/AliAkbarSobhanpour/) is mine also. go and check it.
