@@ -4,7 +4,7 @@ I have little skill in items below: <br>
 
 oh ! repo (https://github.com/AliAkbarSobhanpour/) also is mine . go and check it.
 
-### acrivity monothoring
+### status
 <hr>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakbarsobhanpoor&theme=radical" width="47%" />
