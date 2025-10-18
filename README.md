@@ -7,7 +7,6 @@ oh ! repo (https://github.com/AliAkbarSobhanpour/) also is mine . go and check i
 ### status
 <hr>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliakbarsobhanpoor&theme=radical" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api?username=aliakbarsobhanpoor&show_icons=true&theme=radical" width="47%" />
 </p>
 <p align="center">
